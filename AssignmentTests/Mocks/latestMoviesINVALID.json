@@ -1,0 +1,23 @@
+{
+	"dates":
+	{
+		"maximum": "2020-12-22",
+		"minimum": "2020-11-04"
+	},
+	"page": 1,
+	"bad_results": [
+		{
+			"adult": false,
+			"backdrop_path": "/jeAQdDX9nguP6YOX6QSWKDPkbBo.jpg",
+			"genre_ids": [
+				28,
+				14,
+				878
+			],
+			"id": 590706,
+			"original_language": "en",
+			"vote_count": 161
+		}	],
+	"total_pages": 60,
+	"total_results": 1197
+}
